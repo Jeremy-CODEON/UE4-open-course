@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E6034FF7-4582-AC76-6B50-8A97CC8D700D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Test_cpp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
